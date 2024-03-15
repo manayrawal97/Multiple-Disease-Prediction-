@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Asus\Music\Minor Project\MAIN PROJECT\Divyansh part\Minor Project\Multiple Disease pred.py"
